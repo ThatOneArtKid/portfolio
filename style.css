@@ -1,0 +1,40 @@
+DIV {border: 0px solid #000; }
+
+body {
+Background-color: #5f5a73;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2 !important;
+}
+
+
+.nav-link {
+Color: #f7eeeb;
+}
+
+.nav-link-active {
+Color: #5f5a73;
+}
+
+.navbar-text {
+Color: #5f5a73;
+}
+
+
+.bg-nope{
+background-color: #f7eeeb;
+}
+
+.nav-bg{
+background-color: #f7eeeb;
+}
+
+.carousel-inner {
+Width: 400px;
+}
+
+.carousel-indicators {
+Width: 400px;
+}
+
